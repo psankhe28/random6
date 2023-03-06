@@ -22,7 +22,7 @@ You can use a tool like Live Server for this purpose.
 Open your text editor's terminal or command prompt.
 Navigate to your project directory.
 Install Live Server by running the command: npm install -g live-server.
-If using Visual Studio Code, click on the extensions option available on the left side and install live server extension.
+If using VSCode, click on the extensions option available on the left side and install live server extension.
 Run Live Server by typing live-server in the terminal.
 ```
 - Once you've started the local server, you can view the project in your web browser by going to http://localhost:8080/ or any other port specified by the Live Server.
